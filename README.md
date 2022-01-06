@@ -1,13 +1,14 @@
 
 
-### Hi there, I'm Tyler 👋!
+## Hi there, I'm Tyler 👋!
 <!-- banner -->
 <a href="https://www.linkedin.com/in/tyleradammartinez/">
   <img align="left" alt="Tyler's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:tyleradammartinez@outlook.com">
-  <img align="left" alt="Tyler's Email" width="22px" src=""/>
+  <img align="left" alt="Tyler's Email" width="25px" src="https://raw.githubusercontent.com/TylerAdamMartinez/TylerAdamMartinez/main/email-icon.svg"/>
 </a>
+<br>
 
 #### I am coding instructor for CodeStream Studios, LLC
 I'm a junior software engineering student at the University of North Texas. My expected graduation of spring 2023. I'm currently an officer of HackUNT, a former NTDaily webmaster and former UNT Robotics treasurer.
