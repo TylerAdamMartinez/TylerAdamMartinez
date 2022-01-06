@@ -3,7 +3,7 @@
 ## Hi there, I'm Tyler 👋!
 <!-- banner -->
 <a href="https://www.linkedin.com/in/tyleradammartinez/">
-  <img align="center" alt="Tyler's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Tyler's LinkedIn" width="31px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:tyleradammartinez@outlook.com">
   <img align="center" alt="Tyler's Email" width="32px" src="https://raw.githubusercontent.com/TylerAdamMartinez/TylerAdamMartinez/main/email-icon.svg"/>
