@@ -11,11 +11,11 @@
 
 <br>
 
-#### I am coding instructor for CodeStream Studios, LLC
+### I am coding instructor for <a href="https://www.codestreamstudios.com/"><img align="center" alt="CodeStream Studios, LLC" height="28px" src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/codestream-studios-icon.png"/></a>
 A junior software engineering student at the University of North Texas. My expected graduation of spring 2023. 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" alt="Tyler Adam Martinez's Github General Stats" />
   
-**Experience**
+**Experience:**
   * 👨🏻‍💼 HackUNT Officer
   * 👨🏻‍💻 NTDaily Webmaster
   * 💰 UNT Robotics Treasurer
