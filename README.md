@@ -26,7 +26,7 @@ Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.cod
   - 👨🏻‍💻 NTDaily Webmaster (2 years)
   - 🙋🏻‍♂️ Robotics Tutor (1 year 10 months)
   - 💰 UNT Robotics Treasurer (2 years)
-  - 🤖 UNT Robotics Competition Robotics Eletrical and Software Teams (4 years)</pre>
+  - 🤖 UNT Robotics Competition Robotics (4 years)</pre>
 
 </details>
   
