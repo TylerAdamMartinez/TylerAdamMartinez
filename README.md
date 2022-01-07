@@ -15,10 +15,11 @@ Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.cod
 
 <details>
   <summary><b>Github Stats</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" /> 
 </details>
 <details>
   <summary><b>Experience:</b></summary>
+    <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/Tyler_linkedIn_banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
   - 👨🏻‍🏫 Coding Instructor (3 months)
   - 👨🏻‍💼 HackUNT Officer (3 months)
@@ -26,6 +27,7 @@ Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.cod
   - 🙋🏻‍♂️ Robotics Tutor (1 year 10 months)
   - 💰 UNT Robotics Treasurer (2 years)
   - 🤖 UNT Robotics Competition Robotics Eletrical and Software Teams (4 years)</pre>
+
 </details>
   
 **Languages and Tools:**  
