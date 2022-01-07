@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Tyler 👋!
+
 <!-- banner -->
 <a href="https://www.linkedin.com/in/tyleradammartinez/">
   <img align="center" alt="Tyler's LinkedIn" width="31px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -11,15 +11,22 @@
 
 <br>
 
-### I am coding instructor for <a href="https://www.codestreamstudios.com/"><img align="center" alt="CodeStream Studios, LLC" height="28px" src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/codestream-studios-icon.png"/></a>
-A junior software engineering student at the University of North Texas. My expected graduation of spring 2023. 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" alt="Tyler Adam Martinez's Github General Stats" />
-  
-**Experience:**
-  * 👨🏻‍💼 HackUNT Officer
-  * 👨🏻‍💻 NTDaily Webmaster
-  * 💰 UNT Robotics Treasurer
-  * 🤖 UNT Robotics Competition Robotics Eletrical and Software Teams
+Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
+
+<details>
+  <summary><b>Github Stats</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" />
+</details>
+<details>
+  <summary><b>Experience:</b></summary>
+  <pre>
+  - 👨🏻‍🏫 Coding Instructor (3 months)
+  - 👨🏻‍💼 HackUNT Officer (3 months)
+  - 👨🏻‍💻 NTDaily Webmaster (2 years)
+  - 🙋🏻‍♂️ Robotics Tutor (1 year 10 months)
+  - 💰 UNT Robotics Treasurer (2 years)
+  - 🤖 UNT Robotics Competition Robotics Eletrical and Software Teams (4 years)</pre>
+</details>
   
 **Languages and Tools:**  
 
