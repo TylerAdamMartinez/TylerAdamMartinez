@@ -1,15 +1,9 @@
 
 
 
-<!-- banner -->
-<a href="https://www.linkedin.com/in/tyleradammartinez/">
-  <img align="center" alt="Tyler's LinkedIn" width="31px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:tyleradammartinez@outlook.com">
-  <img align="center" alt="Tyler's Email" width="32px" src="https://raw.githubusercontent.com/TylerAdamMartinez/TylerAdamMartinez/main/email-icon.svg"/>
-</a>
-
-<br>
+<p align="center">
+  <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/Github_Profile_Banner_with_Title.jpg" height="400"/>
+</p>
 
 Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
 
@@ -29,14 +23,24 @@ Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.cod
   - 🤖 UNT Robotics Competition Robotics (4 years)</pre>
 
 </details>
-  
+
+**Contact Me:**
+
+  <a href="https://www.linkedin.com/in/tyleradammartinez/">
+    <code><img alt="Tyler's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></code>
+  </a>
+  <a href="mailto:tyleradammartinez@outlook.com">
+    <code><img alt="Tyler's Email" width="28px" src="https://raw.githubusercontent.com/TylerAdamMartinez/TylerAdamMartinez/main/email-icon.svg"/></code>
+  </a>
+  <br><br>
+
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
