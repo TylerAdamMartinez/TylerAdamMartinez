@@ -11,7 +11,6 @@ Hi, I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.cod
 <details>
   <summary><b>Github Stats</b></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" height="200"/>
-  <img align="right" src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/Working_on_Electronics.jpeg" height="200"/> 
 </details>
 <details>
   <summary><b>Experience:</b></summary>
