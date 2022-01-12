@@ -1,11 +1,3 @@
-
-
-
-<p align="center">
-  <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/Github_Profile_Banner_with_Title.jpg" height="400"/>
-</p>
-
-
 Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
 
 <details>
