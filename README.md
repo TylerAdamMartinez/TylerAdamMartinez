@@ -1,4 +1,4 @@
-Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="http://www.tyler.wiki">Tyler Adam Martinez</a>, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
+Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="http://www.tyler.wiki">Tyler Adam Martinez</a>, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
 
 <details>
   <summary><b>Github Stats</b></summary>
@@ -6,7 +6,7 @@ Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/W
 </details>
 <details>
   <summary><b>Experience:</b></summary>
-    <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/Tyler_linkedIn_banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
+    <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
   - 👨🏻‍🏫 Coding Instructor (3 months)
   - 👨🏻‍💼 HackUNT Officer (3 months)
@@ -23,7 +23,7 @@ Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/W
     <code><img alt="Tyler's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></code>
   </a>
   <a href="mailto:tyleradammartinez@outlook.com">
-    <code><img alt="Tyler's Email" width="28px" src="https://raw.githubusercontent.com/TylerAdamMartinez/TylerAdamMartinez/main/email-icon.svg"/></code>
+    <code><img alt="Tyler's Email" width="28px" src="Assets/Icons/email.svg"/></code>
   </a>
   <br><br>
 
