@@ -1,4 +1,4 @@
-Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm Tyler Adam Martinez, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
+Hi, <img src="https://github.com/TylerAdamMartinez/TylerAdamMartinez/blob/main/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="http://www.tyler.wiki">Tyler Adam Martinez</a>, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
 
 <details>
   <summary><b>Github Stats</b></summary>
