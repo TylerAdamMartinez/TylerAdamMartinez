@@ -1,7 +1,8 @@
-Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="http://www.tyler.wiki">Tyler Adam Martinez</a>, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean  quality code.
+
+Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="http://www.tyler.wiki">Tyler Adam Martinez</a>, I am coding instructor for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>. A junior software engineering student at the University of North Texas with a spring 2023 graduation date. I'm love learning things, and writing clean quality code. <br>
 
 <details>
-  <summary><b>Github Stats</b></summary>
+  <summary><b>Github Stats </b><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.tyleradammartinez" /></summary>
   <p style="display: flex;" >
     <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" height="200"/>
     <img alt="Tyler Adam Martinez's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleradammartinez&langs_count=6&hide=php,hack,css,html&theme=github_dark&layout=compact&hide_border=true" height="200" />
