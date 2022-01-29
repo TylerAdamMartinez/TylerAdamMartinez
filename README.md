@@ -3,7 +3,7 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
 
 <details>
   <summary><b>Github Stats </b><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.tyleradammartinez" /></summary>
-  <p style="display: flex;" >
+  <p style="display: flex;" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" alt="Tyler Adam Martinez's Github General Stats" height="200" width="500"/>
     <img alt="Tyler Adam Martinez's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleradammartinez&langs_count=8&hide=ejs,php,hack,css,html&theme=github_dark&layout=compact&hide_border=true" height="200" width="500" />
     </p>
