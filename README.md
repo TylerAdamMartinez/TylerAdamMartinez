@@ -17,12 +17,12 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
   <summary><b>Experience</b></summary>
     <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
-  - 👨🏻‍🏫 Coding Instructor (8 months)
-  - 👨🏻‍💼 HackUNT Officer (8 months)
-  - 👨🏻‍💻 NTDaily Webmaster (2 years)
-  - 🙋🏻‍♂️ Robotics Tutor (1 year 10 months)
-  - 💰 UNT Robotics Treasurer (2 years)
-  - 🤖 UNT Robotics Competition Robotics (4 years)</pre>
+  - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (8 months)
+  - 👨🏻‍💼 <a href="https://unthackathon.com/">HackUNT</a> Officer (8 months)
+  - 👨🏻‍💻 <a href="https://www.ntdaily.com/">NTDaily</a> Webmaster (2 years)
+  - 🙋🏻‍♂️ <a href="https://engineering.unt.edu/">UNT</a> Robotics Tutor (1 year 10 months)
+  - 💰 <a href="https://www.untrobotics.com/">UNT Robotics</a> Treasurer (2 years)
+  - 🤖 <a href="https://www.untrobotics.com/">UNT Robotics</a> Competition Robotics (4 years)</pre>
 
 </details>
 
