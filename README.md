@@ -1,5 +1,5 @@
 
-Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm Tyler Adam Martinez. I'm a Software Development Engineer for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> and a senior software engineering student at UNT. I love learning new things and writing clean, quality code.<br> Check out <a href="Assets/Resumes/Resume.pdf">my resume</a>
+Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm a Software Development Engineer for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> and a senior software engineering student at UNT. I love learning new things and writing clean, quality code.<br> Check out <a href="Assets/Resumes/Resume.pdf">my resume</a>
 
 <details>
   <summary><b>Github Stats </b><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.tyleradammartinez" /></summary>
@@ -26,16 +26,6 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
   - 🤖 <a href="https://www.untrobotics.com/">UNT Robotics</a> Competition Robotics (4 years)</pre>
 
 </details>
-
-**Contact Me:**
-
-  <a href="https://www.linkedin.com/in/tyleradammartinez/">
-    <code><img alt="Tyler's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></code>
-  </a>
-  <a href="mailto:tyleradammartinez@outlook.com">
-    <code><img alt="Tyler's Email" width="28px" src="Assets/Icons/email.svg"/></code>
-  </a>
-  <br><br>
 
 **Languages and Tools:**  
 
