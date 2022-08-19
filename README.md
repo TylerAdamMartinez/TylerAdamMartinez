@@ -17,7 +17,7 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
   <summary><b>Experience</b></summary>
     <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
-  - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (1 month)
+  - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (3 month)
   - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (8 months)
   - 👨🏻‍💼 <a href="https://unthackathon.com/">HackUNT</a> Officer (9 months)
   - 🌐 <a href="https://www.ntdaily.com/">NTDaily</a> Webmaster (2 years)
