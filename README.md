@@ -1,5 +1,5 @@
 
-Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm a Software Development Engineer for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> and a senior software engineering student at UNT. I love learning new things and writing clean, quality code.<br> Check out <a href="Assets/Resumes/Resume.pdf">my resume</a>
+Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm a Software Development Engineer for <a href="https://www.codestreamstudios.com/">CodeStream Studios</a>.<br> Check out <a href="Assets/Resumes/Resume.pdf">my resume</a>
 
 <details>
   <summary><b>Github Stats </b><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.tyleradammartinez" /></summary>
