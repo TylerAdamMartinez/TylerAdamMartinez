@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog List</title>
+    <title>Blog | Listed</title>
+    <script type="module" src="https://cdn.skypack.dev/twind/shim"></script>
 </head>
-<body>
-    <h1>List template</h1>
-    {{ .Content }}
-    <h2>Listed</h2>
+<body class="mx-auto max-w-2xl">
+    <h1 class="border-4 border-zinc-900 rounded-md my-2 p-2">Blog Posts Listed</h1>
     {{ range .Pages }}
         <ul>
             <li><a href="{{ .URL }}">{{ .Title }}</a></li>
