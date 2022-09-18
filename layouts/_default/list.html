@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <h1>List template</h1>
+    {{ .Content }}
+    <h2>Listed</h2>
+    {{ range .Pages }}
+        <ul>
+            <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+        </ul>
+    {{ end }}
+{{ end }}
