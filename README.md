@@ -39,9 +39,9 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
 <img width="40" height="40" src="Assets/Icons/c.svg">
 <img width="40" height="40" src="Assets/Icons/cpp.svg">
 <img width="40" height="40" src="Assets/Icons/csharp.svg">
-<img width="40" height="40" src="Assets/Icons/aspnet.svg">
+<img width="40" height="40" src="Assets/Icons/net.svg">
 <img width="40" height="40" src="Assets/Icons/python.svg">
-<img width="40" height="40" src="Assets/Icons/react.png">
+<img width="40" height="40" src="Assets/Icons/react.svg">
 <img width="100" height="40" src="Assets/Icons/basic-web.svg">
 <img width="40" height="40" src="Assets/Icons/arduino.svg">
 <img width="40" height="40" src="Assets/Icons/raspberrypi.svg">
