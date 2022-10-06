@@ -5,7 +5,7 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
 (🤖 <a href="Assets/Resumes/Resume-2022-InPerson.pdf">Robot/ATS Firendly version</a>)
 
 <details>
-  <summary><b>Github Stats </b><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.tyleradammartinez" /></summary>
+  <summary><b>Github Stats </b></summary>
   <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyleradammartinez&theme=github" alt="Tyler Adam Martinez's Github Contributions Stats" height="200" width="500"/>
   </p> -->
@@ -32,18 +32,18 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
 
 **Languages and Tools:**  
 
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<p align="left">
+<img width="40" height="40" src="Assets/Icons/git.svg">
+<img width="40" height="40" src="Assets/Icons/linux.svg">
+<img width="40" height="40" src="Assets/Icons/ferris.svg">
+<img width="40" height="40" src="Assets/Icons/c.svg">
+<img width="40" height="40" src="Assets/Icons/cpp.svg">
+<img width="40" height="40" src="Assets/Icons/csharp.svg">
+<img width="40" height="40" src="Assets/Icons/aspnet.svg">
+<img width="40" height="40" src="Assets/Icons/python.svg">
+<img width="40" height="40" src="Assets/Icons/react.png">
+<img width="100" height="40" src="Assets/Icons/basic-web.svg">
+<img width="40" height="40" src="Assets/Icons/arduino.svg">
+<img width="40" height="40" src="Assets/Icons/raspberrypi.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+
