@@ -20,9 +20,9 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
   <summary><b>Experience</b></summary>
     <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
-  - 👔 <a href="https://www.respec.com/">RESPEC</a> Associate Software Consultant (8 month)
-  - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (3 month)
-  - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (1 years 10 months)
+  - 👔 <a href="https://www.respec.com/">RESPEC</a> Associate Software Consultant (1 year 7 month)
+  - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (4 month)
+  - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (1 year 10 months)
   - 👨🏻‍💼 <a href="https://unthackathon.com/">HackUNT</a> Officer (2 years 1 months)
   - 🌐 <a href="https://www.ntdaily.com/">NTDaily</a> Webmaster (2 years)
   - 🙋🏻‍♂️ <a href="https://engineering.unt.edu/">UNT</a> Robotics Tutor (1 year 10 months)
