@@ -1,8 +1,7 @@
 
-Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm an Associate Software Consultant for <a href="https://www.respec.com/">RESPEC</a>.
-<br> Check out my **resume** 
-(🙋 <a href="Assets/Resumes/Resume-2022-InPerson.pdf">Human Firendly version</a>) 
-(🤖 <a href="Assets/Resumes/Resume-2022-InPerson.pdf">Robot/ATS Firendly version</a>)
+Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm a Software Consultant for <a href="https://www.respec.com/">RESPEC</a>.
+<br> 
+
 
 <details>
   <summary><b>Github Stats </b></summary>
@@ -20,7 +19,7 @@ Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" hei
   <summary><b>Experience</b></summary>
     <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
-  - 👔 <a href="https://www.respec.com/">RESPEC</a> Associate Software Consultant (1 year 7 month)
+  - 👔 <a href="https://www.respec.com/">RESPEC</a>Software Consultant (2 year 4 month)
   - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (4 month)
   - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (1 year 10 months)
   - 👨🏻‍💼 <a href="https://unthackathon.com/">HackUNT</a> Officer (2 years 1 months)
