@@ -2,24 +2,11 @@
 Hi, <img src="Assets/GIFs/WAVING_HAND_TRANSPARENT.gif" alt="Waving Hand git" height="32"/> I'm <a href="https://www.linkedin.com/in/tyleradammartinez/">Tyler Adam Martinez</a>. I'm a Software Consultant for <a href="https://www.respec.com/">RESPEC</a>.
 <br> 
 
-
-<details>
-  <summary><b>Github Stats </b></summary>
-  <!-- <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyleradammartinez&theme=github" alt="Tyler Adam Martinez's Github Contributions Stats" height="200" width="500"/>
-  </p> -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tyleradammartinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_light" alt="Tyler Adam Martinez's Github General Stats" height="200" width="500" />
-  </p>
-  <p align="center">
-    <img alt="Tyler Adam Martinez's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleradammartinez&langs_count=8&hide=ejs,handlebars,php,hack,css,html,matlab&theme=github_light&layout=compact&hide_border=true" height="200" width="500" />
-    </p>
-</details>
 <details>
   <summary><b>Experience</b></summary>
     <img src="Assets/LinkedIn_Images/banner_before_01-07-2022.jpeg" alt="UNT Robotics Competition Meeting" />
   <pre>
-  - 👔 <a href="https://www.respec.com/">RESPEC</a>Software Consultant (2 year 4 month)
+  - 👔 <a href="https://www.respec.com/">RESPEC</a> Software Consultant (3 year 1 month)
   - 👨🏻‍💻 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Software Development Engineer (4 month)
   - 👨🏻‍🏫 <a href="https://www.codestreamstudios.com/">CodeStream Studios</a> Coding Instructor (1 year 10 months)
   - 👨🏻‍💼 <a href="https://unthackathon.com/">HackUNT</a> Officer (2 years 1 months)
